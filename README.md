@@ -8,10 +8,10 @@
 ```
 $ git clone https://github.com/simochee/react-google-oauth.git
 $ cd react-google-oauth
-$ yarn && parcel app/index.html
+$ yarn && yarn start
 ```
 
-Server listening at http://localhost:1234
+Server started at http://localhost:1234
 
 ## Tips
 

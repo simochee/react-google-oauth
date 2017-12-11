@@ -1,5 +1,9 @@
 {
+  "scripts": {
+    "start": "parcel app/index.html"
+  },
   "dependencies": {
+    "parcel-bundler": "^1.1.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-google-login": "^3.0.2",
